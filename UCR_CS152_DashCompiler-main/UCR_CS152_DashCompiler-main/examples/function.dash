@@ -1,0 +1,23 @@
+#Checked, Done!
+func add(int a, int b) {
+    int c;
+    return a + b;
+        }
+func mul(int a, int b) {
+   int d;
+
+    return a * b;
+}
+func main() {
+int a;
+int b;
+
+a = add(10, 2);
+
+prt(a);
+b = mul(a, a + b);
+prt(b);
+}
+
+
+
